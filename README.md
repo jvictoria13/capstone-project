@@ -20,3 +20,12 @@ Podcasters often struggle to measure the impact of their content and engage with
 3. APIs: OpenAI, Google Cloud Speech-to-Text, Gemini
 4. Hosting: AWS
 # solution details
+1. Data Pipeline:
+- Audio Preprocessing: Cleaning and normalizing audio files.
+- Feature Extraction: Using Riverside.fm to extract audio features.
+- Data Storage: Storing processed data and model artifacts in a MYSQL database.
+# next steps/future improvements
+- Advanced Analytics: Incorporating natural language processing techniques for deeper semantic analysis.
+- Real-time Analysis: Developing a real-time monitoring system to track listener behavior.
+- Personalized Recommendations: Suggesting relevant content based on user preferences.
+
