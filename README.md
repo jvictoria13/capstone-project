@@ -5,8 +5,16 @@ Podcast was created to dedicate a space where Latinas can feel safe from judgmen
 Simultaneously, this helps aspiring podcasters and content creators gain comprehension into the necessary tools that will help analyze podcast performance and audience insights. For example, using platforms that integrate AI powered audio, video, and audience analysis will facilitate their content and allow them to make better data-driven decisions.
 # problem statement
 Podcasters often struggle to measure the impact of their content and engage with their audience effectively. Various podcasting applications aim to address this gap by providing an automated solution.
-# podcasting diagram
+# 
 ![image](https://github.com/user-attachments/assets/e35c79bc-8fa5-4025-9816-c6af1a4a8537)
+![image]graph LR
+    A[Plan the Episode] --> B{Write Script}
+    B --> C{Gather Equipment}
+    C --> D{Record Audio}
+    D --> E{Edit Audio}
+    E --> F{Add Music & Sound Effects}
+    F --> G{Add Intro & Outro}
+    G --> H{Export Episode}
 
 # ISBA subfields
 1. Human-Computer Interaction (HCI): A user-friendly web interface for interaction with the analysis tools and visualizations.
