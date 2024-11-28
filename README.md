@@ -7,6 +7,8 @@ Simultaneously, this helps aspiring podcasters and content creators gain compreh
 Podcasters often struggle to measure the impact of their content and engage with their audience effectively. Various podcasting applications aim to address this gap by providing an automated solution.
 # publishing a podcast episode
 ![image](https://github.com/user-attachments/assets/ad33262d-8da5-47a1-8548-14606750293f)
+# publishing to social media accounts
+![image](https://github.com/user-attachments/assets/064d88da-4ec9-4dc6-bac1-b2ebd4551e21)
 # ISBA subfields
 1. Human-Computer Interaction (HCI): A user-friendly web interface for interaction with the analysis tools and visualizations.
 2. Data Science and Analytics: Developing machine learning models to extract insights from audio and textual data.
