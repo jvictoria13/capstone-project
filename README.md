@@ -41,8 +41,8 @@ The technical Stack is powered by SaS solutions. These Sas Solutions have APIs t
 - Data Quality: Dealing with noisy and inconsistent audio data.
 - Model Performance: Optimizing model accuracy and efficiency.
 ### Lessons Learned:
-- The importance of data cleaning and preprocessing.
-- The power of AI and machine learning for audio analysis.
+- The importance of automation when it comes to repetitive tasks.
+- The power of AI when used as a guide for structuring content.
 - The value of IT Project Management: Streamline project management by leveraging industry-best practices with tools like Jira and Whimsical, and   
   automating repetitive tasks.
 
