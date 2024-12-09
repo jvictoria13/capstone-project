@@ -12,7 +12,11 @@ Podcasters often struggle to measure the impact of their content and engage with
 # ISBA subfields
 1. Human-Computer Interaction (HCI): A user-friendly web interface for interaction with the analysis tools and visualizations.
 2. Data Science and Analytics: Developing machine learning models to extract insights from audio and textual data.
-3. Software Engineering: Building a scalable and maintainable web application using modern technologies.
+3. IT Project Management: Selection of appropriate tools: Jira,  Whimsical, Transistor, etc.
+   ![SML0nD1a_400x400](https://github.com/user-attachments/assets/07ae4a4c-2721-40dc-9253-9daf34ef2969)
+![3291664](https://github.com/user-attachments/assets/d489d5cd-9d39-4433-a92f-df440875917d)
+![Transistor](https://github.com/user-attachments/assets/c9145454-8739-449a-aa9a-c1b7c3d2f308)
+
 # solution overview
 1. Audio Analysis: Using AI to extract key metrics like speech rate, pitch, and volume.
 2. Audience Engagement: Tracking listener behavior, including play time, skip rates, and social media interactions.
@@ -28,11 +32,11 @@ The technical Stack is powered by SaS solutions. These Sas Solutions have APIs t
 1. Data Pipeline:
 - Audio Preprocessing: Cleaning and normalizing audio files.
 - Feature Extraction: Using Riverside.fm to extract audio features.
-- Data Storage: Storing processed data and model artifacts in a MYSQL database.
+<img width="1205" alt="Screenshot 2024-12-08 at 8 00 10 PM" src="https://github.com/user-attachments/assets/e85593b3-ca5b-46ae-a24f-2bdb6eb7fae7">
+
 # next steps/future improvements
-- Advanced Analytics: Incorporating natural language processing techniques for deeper semantic analysis.
-- Real-time Analysis: Developing a real-time monitoring system to track listener behavior.
-- Personalized Recommendations: Suggesting relevant content based on user preferences.
+- Advanced Analytics: Collect data via API, store in database, and perform descriptive, diagnostic, and predictive analytics.
+- Personalized Recommendations: Predictive analytics will aid in content creation.
 # retrospective
 ### Challenges:
 - Data Quality: Dealing with noisy and inconsistent audio data.
@@ -40,5 +44,8 @@ The technical Stack is powered by SaS solutions. These Sas Solutions have APIs t
 ### Lessons Learned:
 - The importance of data cleaning and preprocessing.
 - The power of AI and machine learning for audio analysis.
-- The value of iterative development and user feedback.
+- The value of IT Project Management: Streamline project management by leveraging industry-best practices with tools like Jira and Whimsical, and   
+  automating repetitive tasks.
+
+
 
