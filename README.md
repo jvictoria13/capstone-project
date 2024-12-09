@@ -15,14 +15,14 @@ Podcasters often struggle to measure the impact of their content and engage with
 3. Software Engineering: Building a scalable and maintainable web application using modern technologies.
 # solution overview
 1. Audio Analysis: Using AI to extract key metrics like speech rate, pitch, and volume.
-2. Sentiment Analysis: Identifying the emotional tone of the podcast content.
-3. Audience Engagement: Tracking listener behavior, including play time, skip rates, and social media interactions.
-4. Data Visualization: Presenting insights through interactive charts and graphs.
+2. Audience Engagement: Tracking listener behavior, including play time, skip rates, and social media interactions.
+3. Data Visualization: Presenting insights through interactive charts and graphs.
 ## technical stack
-1. Data Storage: MYSQL
-2. Software/Tools: Excel
-3. APIs: OpenAI, Google Cloud Speech-to-Text, Gemini
-4. Hosting: AWS
+1. SaS (Software as a Service)
+2. APIs
+3. Data Storage
+The technical Stack is powered by SaS solutions. These Sas Solutions have APIs that are powered through a link.
+![alt text](<img width="1015" alt="Screenshot 2024-12-08 at 7 52 16 PM" src="https://github.com/user-attachments/assets/60ad6e79-e690-4d7a-a1f9-f0e6aa4805a5">)
 # solution details
 1. Data Pipeline:
 - Audio Preprocessing: Cleaning and normalizing audio files.
