@@ -1,6 +1,7 @@
 # capstone-project
-Frescas y Fierce Podcast
 ![Las FRESCAS](https://github.com/user-attachments/assets/91d27cf0-bbb3-4a4d-a796-ecaa379fd56d)
+
+Frescas y Fierce Podcast
 
 # project overview
 Podcast was created to dedicate a space where Latinas can feel safe from judgment and empowered. We dive into a variety of topics, from career advice and personal development to cultural identity and social justice. These conversations are aimed to uplift and inspire women so they may reach their full potential.
