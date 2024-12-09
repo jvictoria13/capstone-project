@@ -23,6 +23,7 @@ Podcasters often struggle to measure the impact of their content and engage with
 3. Data Storage
 The technical Stack is powered by SaS solutions. These Sas Solutions have APIs that are powered through a link.
 <img width="1015" alt="Screenshot 2024-12-08 at 7 52 16 PM" src="https://github.com/user-attachments/assets/60ad6e79-e690-4d7a-a1f9-f0e6aa4805a5">
+
 # solution details
 1. Data Pipeline:
 - Audio Preprocessing: Cleaning and normalizing audio files.
