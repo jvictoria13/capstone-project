@@ -13,10 +13,6 @@ Podcasters often struggle to measure the impact of their content and engage with
 1. Human-Computer Interaction (HCI): A user-friendly web interface for interaction with the analysis tools and visualizations.
 2. Data Science and Analytics: Developing machine learning models to extract insights from audio and textual data.
 3. IT Project Management: Selection of appropriate tools: Jira,  Whimsical, Transistor, etc.
-   ![SML0nD1a_400x400](https://github.com/user-attachments/assets/07ae4a4c-2721-40dc-9253-9daf34ef2969)
-![3291664](https://github.com/user-attachments/assets/d489d5cd-9d39-4433-a92f-df440875917d)
-![Transistor](https://github.com/user-attachments/assets/c9145454-8739-449a-aa9a-c1b7c3d2f308)
-
 # solution overview
 1. Audio Analysis: Using AI to extract key metrics like speech rate, pitch, and volume.
 2. Audience Engagement: Tracking listener behavior, including play time, skip rates, and social media interactions.
