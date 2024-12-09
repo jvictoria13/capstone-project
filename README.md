@@ -45,6 +45,9 @@ The technical Stack is powered by SaS solutions. These Sas Solutions have APIs t
 - The power of AI when used as a guide for structuring content.
 - The value of IT Project Management: Streamline project management by leveraging industry-best practices with tools like Jira and Whimsical, and   
   automating repetitive tasks.
+<img width="1207" alt="Screenshot 2024-12-08 at 8 33 03 PM" src="https://github.com/user-attachments/assets/863a31db-b4e2-46f5-afd1-07e86e9ca48f">
+
+  
 
 
 
